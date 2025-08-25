@@ -1,0 +1,2 @@
+# splitr
+Expense split app
