@@ -1,4 +1,3 @@
-import { authConfig } from "convex/server";
 
 export default authConfig({
   providers: [
